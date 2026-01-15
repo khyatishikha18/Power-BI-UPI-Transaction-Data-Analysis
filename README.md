@@ -31,4 +31,3 @@ to make data-driven insights easy to understand.
 
 ## 📸 Dashboard Preview
 Screenshots are available in the screenshots folder.
-# Power-BI-UPI-Transaction-Data-Analysis
